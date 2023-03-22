@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kelasonline_latihan1", "kelasonline_latihan1\kelasonline_latihan1.vcxproj", "{1425EF6B-2EB8-4B98-BBAF-F492AD4D62E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kelasonline_latihan2", "kelasonline_latihan2\kelasonline_latihan2.vcxproj", "{B8F90519-E821-4411-B5C3-1E4AE24C8E69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1425EF6B-2EB8-4B98-BBAF-F492AD4D62E5}.Release|x64.Build.0 = Release|x64
 		{1425EF6B-2EB8-4B98-BBAF-F492AD4D62E5}.Release|x86.ActiveCfg = Release|Win32
 		{1425EF6B-2EB8-4B98-BBAF-F492AD4D62E5}.Release|x86.Build.0 = Release|Win32
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Debug|x64.ActiveCfg = Debug|x64
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Debug|x64.Build.0 = Debug|x64
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Debug|x86.Build.0 = Debug|Win32
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Release|x64.ActiveCfg = Release|x64
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Release|x64.Build.0 = Release|x64
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Release|x86.ActiveCfg = Release|Win32
+		{B8F90519-E821-4411-B5C3-1E4AE24C8E69}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
